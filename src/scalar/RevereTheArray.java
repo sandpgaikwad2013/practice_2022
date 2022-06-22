@@ -2,6 +2,7 @@ package scalar;
 
 import java.util.Arrays;
 
+// reverse the given array without consuming more memory
 public class RevereTheArray {
     public static void main(String[] args) {
        int[]  a={1,5,8,9};
