@@ -1,4 +1,4 @@
-package scalar;
+package sandeep.code.base;
 
 import java.util.Arrays;
 

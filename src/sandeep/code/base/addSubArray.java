@@ -1,5 +1,5 @@
-package scalar;
-
+package sandeep.code.base;
+//given an array calculate the sum of elements between given indexes
 public class addSubArray {
 
     public static void main(String[] args) {

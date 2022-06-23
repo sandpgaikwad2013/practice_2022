@@ -1,4 +1,4 @@
-package scalar;
+package sandeep.code.base;
 
 //given an array count the number of elements which has element which is greater than itself
 public class Count {
