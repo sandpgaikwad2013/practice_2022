@@ -7,8 +7,9 @@ public class addSubArray {
         int s=1;
         int e=3;
         int count =0;
-        for (int i=0;i<a.length;i++){
-            if(i>=s && i<=e){
+        for (int i=1;i<=3;i++){
+           // if(i>=s && i<=e)
+            {
                 count=count+a[i];
             }
         }
