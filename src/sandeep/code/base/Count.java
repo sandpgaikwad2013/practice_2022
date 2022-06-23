@@ -9,9 +9,8 @@ public class Count {
 
     private static void approachTwo() {
         int counter =0;
-        int [] a={4,7,2,9};
-        for (int i:a
-             ) {
+        int[] a={4,7,2,9};
+        for (int i=0;i<a.length ;i++) {
             for (int j:a
                  ) {
                 if(a[i]<a[j]){
